@@ -54,6 +54,3 @@ $$cmd_{M301} = (c_1 \land \neg d_1 \land \neg F) \lor (c_1 \land \neg d_1 \land 
 
 ---
 
-## 4. Entregável da Aula 05
-
-* **Código Otimizado em Python:** Gerador e simplificador de expressões lógicas em FND/FNC utilizando a biblioteca `sympy.logic`, aplicando as leis booleanas no permissivo e intertravamento do AGV.
